@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Redmi Note 13",
+    "price": 13999,
+    "image": "https://m.media-amazon.com/images/I/71d7rfSl0wL._AC_UY218_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 14 (128GB)",
+    "price": 69999,
+    "image": "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_UY218_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy S21 FE",
+    "price": 44999,
+    "image": "https://m.media-amazon.com/images/I/71b2TzvLAJL._AC_UY218_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "OnePlus Nord CE 3",
+    "price": 24999,
+    "image": "https://m.media-amazon.com/images/I/51HBom8xz7L._AC_UY218_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "boAt Rockerz 450 Headphones",
+    "price": 1499,
+    "image": "https://m.media-amazon.com/images/I/61u48FEs3KL._AC_UY218_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "HP Victus Gaming Laptop",
+    "price": 58990,
+    "image": "https://m.media-amazon.com/images/I/71zN7fPh6bL._AC_UY218_.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sony Bravia 55 inch 4K TV",
+    "price": 62999,
+    "image": "https://m.media-amazon.com/images/I/91v5xEDaUBL._AC_UY218_.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Adidas Men’s Running Shoes",
+    "price": 3299,
+    "image": "https://m.media-amazon.com/images/I/61YtN2iIcbL._AC_UL320_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Allen Solly Women’s Top",
+    "price": 999,
+    "image": "https://m.media-amazon.com/images/I/51eVb4dGd1L._AC_UL320_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Wildcraft Backpack",
+    "price": 1199,
+    "image": "https://m.media-amazon.com/images/I/81NctzRMI7L._AC_UL320_.jpg"
+  }
+]
